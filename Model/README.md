@@ -1,5 +1,10 @@
 # Dataset downloading
 
+## Make a `Model/datasets` directory 
+> Execute this while in **project root**
+>
+>       mkdir ./Model/datasets
+
 ## TACO dataset
 > The TACO dataset can be downloaded in a yolov8 format [here](https://universe.roboflow.com/taco-t7kkz/taco-dataset-ql1ng/dataset/15)
 > - Click on YOLOv8 download format and the link to download the `.zip` file would be generated.
@@ -18,3 +23,6 @@
 >
 >       mkdir -p ./Model/testing/Video_Sequences
 >       unzip /path/to/each/of/the/zip/files -d ./Model/testing/Video_Sequences
+
+
+### Now you are all set to refer to RUNME.sh
