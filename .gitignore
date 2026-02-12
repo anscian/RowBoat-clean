@@ -1,13 +1,13 @@
-# In Model directory
-Model/.venv
-Model/best_model/*
-!Model/best_model/best.*
-!Model/best_model/best_saved_model
-Model/best_model/best_saved_model/*
-!Model/best_model/best_saved_model/best_*
-Model/runs
-Model/datasets/*
-Model/testing/RealVids
-Model/testing/Video_Sequences*
-Model/testing/sample.mp4
-Model/yolov8n.pt
+# In cv_model directory
+cv_model/.venv
+cv_model/best_model/*
+!cv_model/best_model/best.*
+!cv_model/best_model/best_saved_model
+cv_model/best_model/best_saved_model/*
+!cv_model/best_model/best_saved_model/best_*
+cv_model/runs
+cv_model/datasets/*
+cv_model/testing/RealVids
+cv_model/testing/Video_Sequences*
+cv_model/testing/sample.mp4
+cv_model/yolov8n.pt
